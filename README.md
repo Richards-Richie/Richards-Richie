@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Richards-Richie
+- 👋 Hi, I’m Richards
 - 👀 I’m interested in coding ...
 - 🌱 I’m currently learning  data structures and algorithms...
-- 📫 you can reach me by texting me to the email address : danderichards360@gmail.com
+- 📫 you can reach me by texting me to the email address : danderichards360@gmail.com or richardsdande@gmail.com
+- insta gram : https://www.instagram.com/dande.richards/
+- linkedIn : https://www.linkedin.com/in/richards-dande-b13851206/
 ...
 <!---
 Richards-Richie/Richards-Richie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
